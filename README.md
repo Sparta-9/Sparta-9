@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikram 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+
 giG
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Githubers
