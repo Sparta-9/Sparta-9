@@ -7,6 +7,9 @@ giG
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to singing and play g
 
+
+[![Sparta-9's github stats](https://github-readme-stats.vercel.app/api?username=Sparta-9)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Youtube Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://youtu.be/eGmLge_8efw)
