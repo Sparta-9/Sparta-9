@@ -17,8 +17,6 @@ giG
 <br />
 <br />
 
-
-</details>
 ### Connect with me:
 
 
