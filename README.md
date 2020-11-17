@@ -29,6 +29,6 @@
 <details />
  
 [twitter]: https://twitter.com/vikram_dow
-[youtube]: https://youtube.com/Sparta-9
+[youtube]: https://www.youtube.com/channel/UCEd17X1Zv307556DG42OVeA
 [instagram]: https://instagram.com/vikram_do
 [linkedin]: https://linkedin.com/in/vikram-do
