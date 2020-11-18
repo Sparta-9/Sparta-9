@@ -1,10 +1,10 @@
-### Hi Geeks, I'm Vikram 
+### Hi Geeks!!! I'm Vikram 
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Githubers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to singing 
+- 👯 I’m looking to collaborate with other Githubers.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to singing and hookups with friends.
 
 
 [![Sparta-9's github stats](https://github-readme-stats.vercel.app/api?username=Sparta-9)](https://github.com/anuraghazra/github-readme-stats)
