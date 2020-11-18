@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Githubers.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to singing and hangout with friends.
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 
 
 
 [![Sparta-9's github stats](https://github-readme-stats.vercel.app/api?username=Sparta-9)](https://github.com/anuraghazra/github-readme-stats)
