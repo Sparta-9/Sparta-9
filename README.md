@@ -11,7 +11,7 @@
 
 ### Youtube Music Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.youtube.com/watch?v=6FURuLYrR_Q)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://youtu.be/qQrgto184Tk)
 
 <br />
 <br />
