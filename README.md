@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Githubers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday. 
+- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ For indian visitors Bsdk padai likhai karo.
 
 
 [![Sparta-9's github stats](https://github-readme-stats.vercel.app/api?username=Sparta-9)](https://github.com/anuraghazra/github-readme-stats)
