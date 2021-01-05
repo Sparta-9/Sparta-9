@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other Githubers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-- ⚡ For indian visitors Bsdk padai likhai karo.
+- ⚡ For indian visitors Bsdwalo padai likhai karo.
 
 
 [![Sparta-9's github stats](https://github-readme-stats.vercel.app/api?username=Sparta-9)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +20,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Sparta-9 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="vikram_dow | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vikram-do | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vikram_do | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
