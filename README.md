@@ -30,4 +30,4 @@
 [youtube]: https://www.youtube.com/channel/UCEd17X1Zv307556DG42OVeA
 [instagram]: https://instagram.com/vikram_do
 [linkedin]: https://linkedin.com/in/vikram-do
-[twitter]: https://twitter.com/dajavu_73
+[twitter]: https://twitter.com/dejavu_73
