@@ -11,7 +11,7 @@
 
 ### Youtube Music Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://youtu.be/qQrgto184Tk)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sparta-9" width="350" />](https://youtu.be/qQrgto184Tk)
 
 <br />
 <br />
@@ -30,4 +30,4 @@
 [youtube]: https://www.youtube.com/channel/UCEd17X1Zv307556DG42OVeA
 [instagram]: https://instagram.com/vikram_do
 [linkedin]: https://linkedin.com/in/vikram-do
-[twitter]: https://twitter.com/dejavu_73
+[twitter]: https://twitter.com/12_9999999
